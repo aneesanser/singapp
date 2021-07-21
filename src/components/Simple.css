@@ -1,0 +1,98 @@
+.forum {
+  outline: none;
+  height: 100vh;
+}
+.wrapper {
+  position: absolute;
+  top: 219%;
+  transform: translateY(-50%);
+  padding: 0 20px;
+  left: 600px;
+}
+.get {
+  max-width: 550px;
+  height: 140px;
+  
+
+  padding: 35px;
+  display: flex;
+  flex-direction: row;
+
+  background: rgba(3, 91, 150, 1);
+}
+.check {
+  position: absolute;
+  top: 10px;
+  right: 212px;
+}
+.input1 {
+  margin-right: 3%;
+  height: 100px;
+}
+.input2 {
+  margin-right: 3%;
+  height: 100px;
+}
+.input1 input {
+  margin: 10px 0;
+  background: transparent;
+  border: 0;
+  border-bottom: 2px solid #c5ecfd;
+  height: 70px;
+}
+.input2 input {
+  margin: 10px 0;
+  background: transparent;
+  border: 0;
+  border-bottom: 2px solid #c5ecfd;
+  height: 70px;
+}
+.input3 input {
+  margin: 10px 0;
+  height: 14px;
+  background: transparent;
+  border: 0;
+  border-bottom: 2px solid #c5ecfd;
+}
+#na {
+  color: #ffff;
+  position: relative;
+  position: relative;
+  top: -49px;
+  font-size: 9px;
+}
+#gm {
+  color: #ffff;
+  position: relative;
+  position: relative;
+  top: -49px;
+  font-size: 9px;
+}
+#buyer {
+  color: #ffff;
+  position: relative;
+  position: relative;
+  top: -49px;
+  font-size: 9px;
+}
+#pho {
+  color: #ffff;
+  position: relative;
+  position: relative;
+  top: -47px;
+  font-size: 9px;
+}
+#head {
+  font-size: small;
+  color: #ffff;
+  margin: 3px 0 3px;
+  position: relative;
+  left: 23px;
+}
+#ch {
+  font-size: 0.8em;
+  margin: 9px 9px;
+  margin-right: 5px;
+  font-size: 0.5em;
+  color: #ffff;
+}

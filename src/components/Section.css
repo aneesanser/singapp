@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap");
+.say {
+  height: 130vh;
+}
+.bc {
+  width: 100%;
+  height: 100vh;
+  background-color: #fff;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  top: 2000px;
+  position: relative;
+}
+.tes {
+  white-space: nowrap;
+  text-align: left;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 13px;
+  color: rgba(136, 135, 150, 1);
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  width: 93px;
+  position: absolute;
+  top: 15px;
+  right: 649px;
+}
+.cli {
+  white-space: nowrap;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 33px;
+  color: rgba(75, 90, 106, 1);
+  top: 22px;
+  left: 452px;
+}
+#con {
+  font-size: 17px;
+  color: rgba(104, 104, 104, 1);
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 534px;
+  height: 127px;
+  line-height: 30px;
+  font-weight: normal;
+  position: absolute;
+  top: 313px;
+  left: 48px;
+}
+.morgan {
+  white-space: nowrap;
+  line-height: 22px;
+
+  text-align: left;
+  font-family: OscineTrialW04-Bold;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(75, 90, 106, 1);
+  position: relative;
+
+  top: 166px;
+  left: 48px;
+}
+.left {
+  margin-bottom: -100px;
+  background-size: cover;
+}
+.morga {
+  white-space: nowrap;
+  line-height: 22px;
+
+  text-align: left;
+  font-family: OscineTrialW04-Bold;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  color: rgba(75, 90, 106, 1);
+  position: relative;
+
+  top: 145px;
+  left: 48px;
+}
